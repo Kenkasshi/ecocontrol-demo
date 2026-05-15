@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[57101,["/ecocontrol-demo/_next/static/chunks/0y2yabg_8vh.e.js","/ecocontrol-demo/_next/static/chunks/113--w~97x_z4.js"],"default"]
+3:I[89440,["/ecocontrol-demo/_next/static/chunks/0y2yabg_8vh.e.js","/ecocontrol-demo/_next/static/chunks/113--w~97x_z4.js"],"default"]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"tjvNqO6SwhRe9BrNemAjI"}
